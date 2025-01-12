@@ -1,0 +1,54 @@
+
+
+
+.Fira-sans-normal> {
+  font-family: "Fira Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.header{
+    font-size: 32px;
+    font-weight: bold;
+}
+/* shared */
+.bodypadding{
+    padding: 50px 160px;
+}
+/* banner section */
+.banner{
+    display: flex;
+    justify-content: space-between;
+    background-color: #C6E4D6;
+    border-radius: 24px;
+}
+.banner-left{
+    size: 447px 400px;
+}
+.image1{
+    size: 447px 400px;
+}
+.bdtwo{
+    font-size: 24px;
+    font-weight: 500px;
+    color: #0E0E0E;
+
+}
+.idea{
+    font-size: 56px;
+    font-weight: bold;
+
+}
+.explore{
+    font-weight: 600px;
+    font-size: 18px;
+    padding: 17px 34px;
+    background-color: #006A50;
+    border-radius: 8px;
+    margin-top: 24px;
+}
+/* vision section */
+.cardthree{
+    display: flex;
+}
