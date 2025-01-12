@@ -160,4 +160,26 @@
     border-radius: 8px;
     
 }
+/* subscribe */
+.subscribe{
+    text-align: center;
+    background-color: rgb(201, 207, 212);
+    border-radius: 24px;
+}
+/* .subscribe-flex{
+    display: flex;
+    text-align: centre;
+    } */
+
+.bangla{
+    text-align: center;
+}
+.last{
+    text-align: center;
+}
+/* .button-subscribe{
+    background-color: #b3e0cc;
+    border-radius: 8px;
+
+} */
 
