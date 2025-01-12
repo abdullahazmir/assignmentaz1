@@ -44,7 +44,7 @@
     font-weight: 600px;
     font-size: 18px;
     padding: 17px 34px;
-    background-color: #006A50;
+    background-color: #71cdb6;
     border-radius: 8px;
     margin-top: 24px;
 }
@@ -59,6 +59,7 @@
     border-radius: 16px;
     /* padding:0px 32px; */
     justify-content: space-around;
+    width: 100%;
 }
 .v1{
     background-color: #91b5f4;
@@ -91,7 +92,7 @@
     background-color: #FFC239;
 }
 .d-younus{
-    background-color: rgb(137, 127, 127);
+    background-color: rgb(219, 211, 211);
     border-radius: 16px;
     padding: 48px 24px;
     margin-top: 32px;
@@ -124,5 +125,39 @@
 .launch{
     font-size: 32px;
     font-weight: 400px;
+}
+/* Donate */
+.taka{
+    display: flex; 
+    justify-content: space-around;
+    padding: 40px 100px;
+    /* scroll-padding-top: 100px; */
+}
+.other-amount{
+    align-items: center;
+}
+.button-donate{
+    padding: 20px 40px;
+    background-color: #97d7ba;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.donate{
+    background-color: #d2dadc;
+    border-radius: 24px;
+}
+.mydiv{
+    text-align: center;
+}
+.mydiv2{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.taka100{
+    width: 250px;
+    border-radius: 8px;
+    
 }
 
