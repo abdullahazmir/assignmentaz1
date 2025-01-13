@@ -108,6 +108,12 @@
     padding: 48px 24px;
     margin-top: 32px;
 }
+/* opinion */
+
+.table{
+    background-color: #f2e9e9;
+    border-radius: 16px;
+}
 /* news */
 .news{
     display: flex;
@@ -188,9 +194,11 @@
 .last{
     text-align: center;
 }
-/* .button-subscribe{
-    background-color: #b3e0cc;
-    border-radius: 8px;
-
-} */
+.sub-text{
+    background-color: #aeedcd;
+}
+.spam{
+    margin-top: 0px;
+   padding-bottom: 50px;
+}
 
