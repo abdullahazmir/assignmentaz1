@@ -48,6 +48,17 @@
     border-radius: 8px;
     margin-top: 24px;
 }
+/* pillar section */
+.pillar{
+    display: flex;
+    gap: 24px;
+}
+.pillar-card{
+    border-radius: 16px;
+    padding: 24px;
+    background-color: #eee1e1;
+    /* gap: 24px; */
+}
 /* vision section */
 .vision-text{
     font-size: 40px;
