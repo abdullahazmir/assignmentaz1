@@ -167,6 +167,8 @@
 }
 .mydiv{
     text-align: center;
+    padding-bottom: 20px;
+    padding-top: -10px;
 }
 .mydiv2{
     text-align: center;
@@ -193,6 +195,7 @@
 }
 .last{
     text-align: center;
+   
 }
 .sub-text{
     background-color: #aeedcd;
